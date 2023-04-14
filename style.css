@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* nav */
+section{
+    background-image: url(task.jpeg)!important;
+    height: 100vh;
+
+}
+.navbar{
+    justify-content: space-around;
+}
+.navbar-brand{
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+/* nav end */
+/* banner */
+.hello{
+    padding-left: 120px;
+    padding-top: 50px;
+}
+.notes{
+    color: white;
+}
+.btn-danger{
+    border-radius: 30px;
+    font-size: small;
+    margin-bottom: 100px;
+}
+/* banner end *
+
+/* box */
+.cart{
+    background-color: rgb(88, 7, 7);
+    text-align: center;
+    border-radius: 20px;
+
+}
+.cart i{
+    font-size: 60px;
+    color: black;
+}
+/* b0xend */
